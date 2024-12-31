@@ -2,6 +2,9 @@
 
 A festive New Year countdown featuring CSS animations, random color generation with JavaScript, and fireworks using the jQuery Firework plugin. Inspired by Ashiqur Rahman Pranto's YouTube tutorial. Perfect for celebrating the New Year with interactive front-end design.
 
+![new year git'](https://github.com/user-attachments/assets/30f16efc-88d1-4765-8672-9c7dd6b86aec)
+
+
 ## Features ✨
 
 ◽️CSS Animations for smooth and dynamic countdown effects.
