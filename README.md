@@ -13,7 +13,7 @@ A festive New Year countdown featuring CSS animations, random color generation w
 ◽️Responsive design for mobile and desktop compatibility.
  
 ## Demo 🌟
-Check out the live demo here: [Insert live demo link]
+Check out the live demo here: [[live demo link]](https://kithm4.github.io/CSS-New-Year-Countdown/)
 
 ## Technologies Used 🚀 
 
@@ -29,6 +29,7 @@ Check out the live demo here: [Insert live demo link]
 
 ## Clone this repository:
 git clone https://github.com/yourusername/happy-new-year-countdown.git
+
 Open index.html in your browser to view the countdown.
 
 ## Tutorial by Ashiqur Rahman Pranto
