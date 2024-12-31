@@ -80,3 +80,24 @@ h2 span {
         filter: hue-rotate(360deg);
     }
 }
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .counter span {
+        font-size: 6em;
+    }
+    
+    h2 {
+        font-size: 3em;
+    }
+}
+
+@media (max-width: 480px) {
+    .counter span {
+        font-size: 4em;
+    }
+    
+    h2 {
+        font-size: 2em;
+    }
+}
