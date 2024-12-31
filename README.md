@@ -5,8 +5,11 @@ A festive New Year countdown featuring CSS animations, random color generation w
 ## Features ✨
 
 ◽️CSS Animations for smooth and dynamic countdown effects.
+
 ◽️JavaScript for generating random colors.
+
 ◽️jQuery Firework Plugin for a celebratory fireworks effect.
+
 ◽️Responsive design for mobile and desktop compatibility.
  
 ## Demo 🌟
@@ -15,8 +18,11 @@ Check out the live demo here: [Insert live demo link]
 ## Technologies Used 🚀 
 
 ◽️HTML
+
 ◽️CSS
+
 ◽️JavaScript
+
 ◽️jQuery
 
 ## How to Use 📝 
